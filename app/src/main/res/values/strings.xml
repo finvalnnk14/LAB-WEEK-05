@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">LAB-WEEK-05</string>
+    <string name="app_title">Library App</string>
+
+    <string name="menu_buku">Books List</string>
+    <string name="malin_title">MALIN KUNDANG</string>
+    <string name="malin_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <string name="cinderella_title">CINDERELLA</string>
+    <string name="cinderella_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <string name="bawang_title">BAWANG MERAH DAN BAWANG PUTIH</string>
+    <string name="bawang_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <string name="toba_title">DANAU TOBA</string>
+    <string name="toba_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <string name="tangkuban_title">TANGKUBAN PERAHU</string>
+    <string name="tangkuban_desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
 </resources>

@@ -36,10 +36,9 @@
         android:hint="Masukkan email Anda"
         android:inputType="textEmailAddress"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/email"
         app:layout_constraintHorizontal_bias="0.0"
-        android:layout_marginTop="8dp"/>
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="143dp" />
 
     <TextView
         android:id="@+id/password"
