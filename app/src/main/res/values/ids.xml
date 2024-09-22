@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="book_desc" type="id">book_desc</item>
+    <item name="action_listFragment_to_detailFragment" type="id">
+        action_listFragment_to_detailFragment
+    </item>
+    <item name="saveButton" type="id">saveButton</item>
+    <item name="recyclerView" type="id">recyclerView</item>
+    <item name="programStudiEditText" type="id">programStudiEditText</item>
+    <item name="namaEditText" type="id">namaEditText</item>
+</resources>
